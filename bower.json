@@ -1,0 +1,24 @@
+{
+  "name": "imgareaselect",
+  "version": "1.0.0-rc.1",
+  "authors": [
+      "Michał Wojciechowski"
+  ],
+  "description": "imgareaselect",
+  "keywords": [
+    "image", "area", "select", "crop", "cropper"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "pages",
+    "index.html"
+  ],
+  "dependencies": {
+      "jquery": "~1.7"
+  }
+}
